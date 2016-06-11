@@ -1,4 +1,4 @@
-package com.veryfargo.mytest;
+package com.veryfargo.gradeCalculatorTest;
 
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;

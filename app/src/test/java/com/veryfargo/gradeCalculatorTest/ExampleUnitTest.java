@@ -1,4 +1,4 @@
-package com.veryfargo.mytest;
+package com.veryfargo.gradeCalculatorTest;
 
 import org.junit.Test;
 

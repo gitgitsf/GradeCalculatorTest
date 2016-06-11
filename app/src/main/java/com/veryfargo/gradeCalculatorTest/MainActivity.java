@@ -1,4 +1,4 @@
-package com.veryfargo.mytest;
+package com.veryfargo.gradeCalculatorTest;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -74,6 +74,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private void setupView() {
         tvMessage = (TextView) findViewById(R.id.tvMessage);
+        tvMessage.setText(R.string.text_space);
         etName = (EditText) findViewById(R.id.etName);
         etScore = (EditText) findViewById(R.id.etScore);
         btnGrade = (Button) findViewById(R.id.btnGrade);
